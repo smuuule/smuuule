@@ -1,16 +1,23 @@
-## Hi there 👋
+<h3 align="center">Hi, I’m Samuel 👋 (aka smule)</h3>
 
-<!--
-**smuuule/smuuule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://smule.dev">Website</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/samuelrunmarkthunell">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:samuel.runmark@gmail.com">Email</a>
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Passionate about computer graphics, video game development, and systems programming
+- Spend excessive amounts of time setting up my Linux environment
+- [Favourite video](https://www.youtube.com/watch?v=pyv2u1n3mcA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Current Projects
+- **Echo City** — a first-person puzzle game set in a dark world perceived only through echolocation
+- **Mat Kompis (Placeholder)** - a fridge/pantry inventory app with translations, made for exchange students!
+
+## 🧰 Skills & Technologies
+- **Languages:** C++, Python, C, CUDA, Rust, C#, Go, Haskell, Java, Dart, ...
+- **Graphics:** OpenGL, Vulkan, HLSL, GLSL, ...
+- **Interests:** graphics optimization, shader design, emulation programming, ...
