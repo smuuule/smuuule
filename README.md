@@ -15,7 +15,7 @@
 
 ## 💼 Current Projects
 - **Echo City** — a first-person puzzle game set in a dark world perceived only through echolocation
-- **Mat Kompis (Placeholder)** - a fridge/pantry inventory app with translations, made for exchange students!
+- **MatKompis** - a fridge/pantry inventory app with translations, made for exchange students!
 
 ## 🧰 Skills & Technologies
 - **Languages:** C++, Python, C, CUDA, Rust, C#, Go, Haskell, Java, Dart, ...
